@@ -1,0 +1,10 @@
+button {
+    transition: 10s;
+    -webkit-transition: 1s;
+}
+
+button:hover{
+
+    transform: translateX(300px);
+    
+}
